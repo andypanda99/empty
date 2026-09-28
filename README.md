@@ -1,2 +1,2 @@
-# sprites
-sprites for animations
+# empty
+sunyata emptiness
